@@ -139,7 +139,7 @@ Me chamo Yan Vinicius Silva, tenho 22 anos e atualmente curso Engenharia da Comp
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="185" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanSilva22&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
