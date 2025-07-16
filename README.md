@@ -4,7 +4,14 @@
     </a>
 </div>
 
-## Sobre mim
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sobre%20mim-2C3E50?style=for-the-badge&logoColor=white&color=2C3E50" alt="Sobre mim" />
+</p>
+
+##
 
 <div align="center">
 
@@ -24,7 +31,11 @@ Connect with me!
 
 ##
 
-### Linguagens e Tecnologias
+<p align="center">
+  <img src="https://img.shields.io/badge/Linguagens%20e%20Tecnologias-2C3E50?style=for-the-badge&logoColor=white&color=2C3E50" alt="Linguagens e Tecnologias" />
+</p>
+
+
 <img 
     align="left" 
     alt="HTML" 
@@ -111,7 +122,9 @@ Connect with me!
 
 ##
 
-### Estatísticas
+<p align="center">
+  <img src="https://img.shields.io/badge/Estatísticas-2C3E50?style=for-the-badge&logoColor=white&color=2C3E50" alt="Estatísticas" />
+</p>
 
 <p>
   <img 
@@ -130,3 +143,13 @@ Connect with me!
   />
 
 </p>
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YanSilva22/YanSilva22/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YanSilva22/YanSilva22/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YanSilva22/YanSilva22/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
