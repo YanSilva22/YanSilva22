@@ -112,14 +112,14 @@ Connect with me!
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 8px;" 
-    src="https://github-readme-stats.vercel.app/api?username=YanSilva22&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=YanSilva22&show_icons=true&theme=tokyonight&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff&bg_color=0d1117"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanSilva22&layout=donut&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanSilva22&layout=donut&show_icons=true&theme=tokyonight&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff&bg_color=0d1117"
   />
 
 </p>
