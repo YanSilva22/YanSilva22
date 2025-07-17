@@ -1,14 +1,13 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Yan!;Welcome+to+my+profile!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=6E40C9&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Yan!;Welcome+to+my+profile!" alt="Typing SVG" />
     </a>
 </div>
 
 <br/>
-<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Sobre%20mim-2C3E50?style=for-the-badge&logoColor=white&color=2C3E50" alt="Sobre mim" />
+  <img src="https://img.shields.io/badge/Sobre%20mim-6e40c9?style=for-the-badge&logoColor=white&color=6e40c9" alt="Sobre mim" />
 </p>
 
 ##
@@ -32,98 +31,79 @@ Connect with me!
 ##
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linguagens%20e%20Tecnologias-2C3E50?style=for-the-badge&logoColor=white&color=2C3E50" alt="Linguagens e Tecnologias" />
+  <img src="https://img.shields.io/badge/Linguagens%20e%20Tecnologias-6e40c9?style=for-the-badge&logoColor=white&color=6e40c9" alt="Linguagens e Tecnologias" />
 </p>
 
-
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
+<p align="center">
+  <img 
+      alt="HTML" 
+      title="HTML" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+  <img 
+      alt="CSS" 
+      title="CSS" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  <img 
+      alt="JavaScript" 
+      title="JavaScript" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+      alt="JQuery" 
+      title="JQuery" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+  />
+  <img 
+      alt="Python" 
+      title="Python" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
+  <img 
+      alt="C#" 
+      title="C#" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+  />
+  <img 
+      alt="C++" 
+      title="C++" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+  />
+  <img 
+      alt="MySQL" 
+      title="MySQL" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+  />
+  <img 
+      alt="Git" 
+      title="Git" 
+      width="30px" 
+      style="padding-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+</p>
 
 ##
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estatísticas-2C3E50?style=for-the-badge&logoColor=white&color=2C3E50" alt="Estatísticas" />
+  <img src="https://img.shields.io/badge/Estatísticas-6e40c9?style=for-the-badge&logoColor=white&color=6e40c9" alt="Estatísticas" />
 </p>
 
 <p>
