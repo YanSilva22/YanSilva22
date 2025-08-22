@@ -38,63 +38,63 @@ Connect with me!
   <img 
       alt="HTML" 
       title="HTML" 
-      width="30px" 
+      width="40px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
   <img 
       alt="CSS" 
       title="CSS" 
-      width="30px" 
+      width="40px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
   <img 
       alt="JavaScript" 
       title="JavaScript" 
-      width="30px" 
+      width="40px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
   <img 
       alt="JQuery" 
       title="JQuery" 
-      width="30px" 
+      width="40px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
   />
   <img 
       alt="Python" 
       title="Python" 
-      width="30px" 
+      width="40px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
   <img 
       alt="C#" 
       title="C#" 
-      width="30px" 
+      width="40px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
   />
   <img 
       alt="C++" 
       title="C++" 
-      width="30px" 
+      width="40px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
   />
   <img 
       alt="MySQL" 
       title="MySQL" 
-      width="30px" 
+      width="40px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
   />
   <img 
       alt="Git" 
       title="Git" 
-      width="30px" 
+      width="40px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
@@ -118,8 +118,9 @@ Connect with me!
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanSilva22&layout=donut&show_icons=true&theme=tokyonight&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff&bg_color=0d1117"
+      height="180"
+      width="400px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanSilva22&layout=compact&show_icons=true&theme=tokyonight&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff&bg_color=0d1117"
   />
 
 </p>
