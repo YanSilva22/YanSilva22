@@ -102,27 +102,6 @@ Connect with me!
 
 ##
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estatísticas-6e40c9?style=for-the-badge&logoColor=white&color=6e40c9" alt="Estatísticas" />
-</p>
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 8px;" 
-    src="https://github-readme-stats.vercel.app/api?username=YanSilva22&show_icons=true&theme=tokyonight&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff&bg_color=0d1117"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanSilva22&layout=compact&show_icons=true&theme=tokyonight&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff&bg_color=0d1117"
-  />
-
-</p>
 
 
 <p align="center">
